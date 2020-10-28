@@ -1,6 +1,6 @@
 # Concepts Included
 
-  * Page Object pattern
+  * Page Object Pattern
   * Page Factory
   * Dependency injection
   * Common web page interaction methods
